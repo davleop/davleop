@@ -1,4 +1,12 @@
-### Hi there 👋
+# About Me
+
+Hello, I just use this account for side projects (whether they be complete or incomplete 😅).
+
+Feel free to peruse or just take a glance at everything!
+
+### Currently...
+
+I am working on a Spotify clone. I am not the most familiar with building apps, so it's not the best looking (front and back end), but I'm enjoying my time creating it.
 
 <!--
 **davleop/davleop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
