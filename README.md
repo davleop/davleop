@@ -6,7 +6,7 @@ Feel free to peruse or just take a glance at everything!
 
 ### Currently...
 
-I am working on a Spotify clone. I am not the most familiar with building apps, so it's not the best looking (front and back end), but I'm enjoying my time creating it.
+I was working on a Spotify clone, but their playback SDK doesn't seem to want to play with my environment I am developing it in, so onward with different projects.
 
 <!--
 **davleop/davleop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
