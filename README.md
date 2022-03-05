@@ -8,6 +8,8 @@ Feel free to peruse or just take a glance at everything!
 
 I was working on a Spotify clone, but their playback SDK doesn't seem to want to play with my environment I am developing it in, so onward with different projects.
 
+Now I am working on a new project I'm calling Café. I'm writing the server code in Rust and am planning on making a couple of basic apps for mobile and desktop just to learn more full stack development skills.
+
 <!--
 **davleop/davleop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
