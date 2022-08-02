@@ -6,7 +6,7 @@ Feel free to peruse or just take a glance at everything!
 
 ### Currently...
 
-I am unable to stick a project, but maybe something will show up soon...
+I am working on [godu](https://github.com/davleop/godu) for a little bit; will probably start a couple of other new projects soon as well.
 
 <!--I was working on a Spotify clone, but their playback SDK doesn't seem to want to play with my environment I am developing it in, so onward with different projects.
 
