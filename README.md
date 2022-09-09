@@ -4,11 +4,12 @@ Hello, I just use this account for side projects (whether they be complete or in
 
 Feel free to peruse or just take a glance at everything!
 
+<!--
 ### Currently...
 
 I am working on [godu](https://github.com/davleop/godu) for a little bit; will probably start a couple of other new projects soon as well.
 
-<!--I was working on a Spotify clone, but their playback SDK doesn't seem to want to play with my environment I am developing it in, so onward with different projects.
+I was working on a Spotify clone, but their playback SDK doesn't seem to want to play with my environment I am developing it in, so onward with different projects.
 
 Now I am working on a new project I'm calling Café. I'm writing the server code in Rust and am planning on making a couple of basic apps for mobile and desktop just to learn more full stack development skills.
 
